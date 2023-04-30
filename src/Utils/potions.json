@@ -1,0 +1,52 @@
+{
+    "Health Potion" : {
+        "Description" : "Restores 50 HP",
+        "Price" : 50,
+        "Effect" : 50
+    },
+    "Mana Potion" : {
+        "Description" : "Restores 50 MP",
+        "Price" : 50,
+        "Effect" : 50
+    },
+    "Strength Potion" : {
+        "Description" : "Increases Strength by 10",
+        "Price" : 50,
+        "Effect" : 10
+    },
+    "Defense Potion" : {
+        "Description" : "Increases Defense by 10",
+        "Price" : 50,
+        "Effect" : 10
+    },
+    "Speed Potion" : {
+        "Description" : "Increases Speed by 10",
+        "Price" : 50,
+        "Effect" : 10
+    },
+    "Intelligence Potion" : {
+        "Description" : "Increases Intelligence by 10",
+        "Price" : 50,
+        "Effect" : 10
+    },
+    "Wisdom Potion" : {
+        "Description" : "Increases Wisdom by 10",
+        "Price" : 50,
+        "Effect" : 10
+    },
+    "Charisma Potion" : {
+        "Description" : "Increases Charisma by 10",
+        "Price" : 50,
+        "Effect" : 10
+    },
+    "Constitution Potion" : {
+        "Description" : "Increases Constitution by 10",
+        "Price" : 50,
+        "Effect" : 10
+    },
+    "Luck Potion" : {
+        "Description" : "Increases Luck by 10",
+        "Price" : 50,
+        "Effect" : 10
+    }
+}
